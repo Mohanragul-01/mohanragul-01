@@ -88,7 +88,9 @@
 <h3 align="center">Coding Profiles</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Poppins&ext=contest" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/mohanragul" />
+  <br />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true" />
+  <br />
   <img src="https://gfgstatscard.vercel.app/mohanragul?theme=dark" />
 </p>
 
