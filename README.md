@@ -1,5 +1,5 @@
-## Hi 👋! I’m Mohanragul G  
-**AI/ML Engineer | MERN Stack Developer**
+<h1 align="center">Hi 👋, I'm Mohanragul G</h1>
+<h3 align="center">AI/ML Engineer || MERN Stack Developer</h3>
 
 ###
 
@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=Mohanragul-01&theme=dark&title_color=a020f0&icon_color=a020f0&border_color=a020f0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanragul-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohanragul-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanragul-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -104,12 +104,10 @@
 
 ###
 
-![Mohanragul's GitHub stats](https://gh-readme-profile.vercel.app/api?username=Mohanragul-01&theme=dark&title_color=a020f0&icon_color=a020f0&border_color=a020f0)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Poppins&ext=contest)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Poppins&ext=contest" />
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/mohanragul)
-
 ![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/mohanragul?theme=dark)
+</p>
 
 
