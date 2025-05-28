@@ -1,24 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohanragul G</h1>
 <h3 align="center">AI/ML Engineer || MERN Stack Developer</h3>
 
-###
 
 <h3 align="center">My GitHub Stats</h3>
-
-###
-
 <div align="center">
   <img src="https://gh-readme-profile.vercel.app/api?username=Mohanragul-01&theme=dark&title_color=a020f0&icon_color=a020f0&border_color=a020f0" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanragul-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanragul-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
 <h3 align="center">Tech Stack</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -83,12 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
-
 <h3 align="center">Connect with me:</h3>
-
-###
-
 <p align="center">
 <a href="https://linkedin.com/in/mohanragul1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanragul1604" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mohan_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohan_06" height="30" width="40" /></a>
@@ -98,16 +85,10 @@
 <a href="https://auth.geeksforgeeks.org/user/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohanragul" height="30" width="40" /></a>
 </p>
 
-###
-
 <h3 align="center">Coding Profiles</h3>
-
-###
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Poppins&ext=contest" />
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/mohanragul)
-![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/mohanragul?theme=dark)
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/mohanragul" />
+  <img src="https://gfgstatscard.vercel.app/mohanragul?theme=dark" />
 </p>
-
 
