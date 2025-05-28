@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohanragul G</h1>
 <h3 align="center">AI/ML Engineer || MERN Stack Developer</h3>
 
+<br />
+<hr />
 
 <h3 align="center">My GitHub Stats</h3>
 <div align="center">
@@ -9,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanragul-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanragul-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<br />
+<hr />
 
 <h3 align="center">Tech Stack</h3>
 <div align="center">
@@ -75,6 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
+<br />
+<hr />
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mohanragul1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanragul1604" height="30" width="40" /></a>
@@ -84,6 +92,9 @@
 <a href="https://www.leetcode.com/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanragul" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohanragul" height="30" width="40" /></a>
 </p>
+
+<br />
+<hr />
 
 <h3 align="center">Coding Profiles</h3>
 <p align="center">
