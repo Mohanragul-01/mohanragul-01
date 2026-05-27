@@ -1,107 +1,122 @@
-<h1 align="center">Hi 👋, I'm Mohanragul G</h1>
-<h3 align="center">AI/ML Engineer || MERN Stack Developer</h3>
-
-<br />
-<hr />
-
-<h3 align="center">My GitHub Stats</h3>
 <div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=Mohanragul-01&theme=dark&title_color=a020f0&icon_color=a020f0&border_color=a020f0" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanragul-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanragul-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohanragul+%F0%9F%91%8B;AI+Engineer+%26+Full-Stack+Developer;Building+things+that+actually+ship." alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanragul1604)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohanragul)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mohanragul)
+
+<img src="https://komarev.com/ghpvc/?username=Mohanragul-01&style=flat-square&color=58a6ff&label=profile+views" />
+
 </div>
 
-<br />
-<hr />
+<br/>
 
-<h3 align="center">Tech Stack</h3>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanragul-01&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
+
+### About
+
+B.Tech in AI & Data Science at PSG iTech, Coimbatore.    
+I build Agents, RAG pipelines, LLM integrations, and full-stack web apps.    
+Interned at **SAP Labs** and **AssuredAI**.    
+National hackathon finalist. Top 10% on LeetCode.
+
+<br clear="right"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohanragul-01&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
+
+<br/>
+
+### What I Work On
+
+```python
+stack = {
+    "AI & LLMs"    : ["LangChain", "RAG", "ChromaDB", "HuggingFace", "PyTorch"],
+    "Backend"      : ["Python", "FastAPI", "Flask", "Node.js", "Express"],
+    "Frontend"     : ["React", "TypeScript", "Tailwind CSS"],
+    "Infra"        : ["Docker", "AWS", "PostgreSQL", "MongoDB"],
+}
+
+currently_building = "Production-grade AI apps that go beyond demos"
+```
+
+<br/>
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[Ask My Docs](https://github.com/Mohanragul-01/ask-my-docs)**  
+Production RAG system with hybrid BM25 + vector retrieval, cross-encoder reranking, and citation-grounded responses. Hallucination structurally prevented at the API layer.  
+`FastAPI` `LangChain` `ChromaDB` `React` `JWT`
+
+</td>
+<td width="50%">
+
+**[AI API Cost Optimizer](https://github.com/Mohanragul-01/api-cost-optimizer)**  
+Token estimator, cost-aware priority queue, and circuit breaker (CLOSED → OPEN → HALF-OPEN) for LLM API cost control. Structured JSON validation before output hits the UI.  
+`Flask` `React` `SQLite` `Llama 3.3 70B`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[ALLASK](https://github.com/Mohanragul-01/allask)**  
+AI-driven task allocation engine replacing manual workload distribution. LangChain agents assign tasks by urgency scoring and team capacity.  
+`LangChain` `Flask` `MySQL` `NVIDIA AI`  
+🏆 *Honeywell Hackwell — National Finalist*
+
+</td>
+<td width="50%">
+
+**[SmartLoan App](https://github.com/Mohanragul-01/smart-loan-assistant)**  
+Multilingual RAG system with speech interface for loan advisory. Built and deployed in under 24 hours.  
+`RAG` `Speech Interface` `Python`  
+🥇 *Top 15 — Great Bengaluru Hackathon*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### GitHub Stats
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohanragul-01&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanragul-01&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
 </div>
 
-<br />
-<hr />
+<br/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mohanragul1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanragul1604" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohan_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohan_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohanragul75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohanragul75" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohanragul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanragul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mohanragul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohanragul" height="30" width="40" /></a>
-</p>
+### Competitive Programming
 
-<br />
-<hr />
+<div align="center">
 
-<h3 align="center">Coding Profiles</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Poppins&ext=contest" />
-  <br />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true" />
-  <br />
-  <img src="https://gfgstatscard.vercel.app/mohanragul?theme=dark" />
-</p>
+<img src="https://leetcard.jacoblin.cool/Mohanragul?theme=dark&font=Fira+Code&ext=contest&border=0" />
 
+</div>
+
+<br/>
+
+<div align="center">
+
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=mohanragul&theme=dark_lc&disable_animations=false&show_icons=true&force_username=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer&fontSize=16&fontColor=ffffff&animation=fadeIn" />
+<sub>Open to AI Engineering & Full-Stack roles · mohanragul75@gmail.com</sub>
+</div>
