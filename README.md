@@ -46,6 +46,13 @@ currently_building = "Production-grade AI apps that go beyond demos"
 
 <br/>
 
+### Currently Exploring
+- Agentic AI systems and autonomous workflow orchestration
+- Advanced RAG architectures and retrieval evaluation
+- Cost-optimized inference systems and intelligent model routing
+
+<br/>
+
 ### Featured Projects
 
 <table>
