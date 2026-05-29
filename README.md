@@ -18,7 +18,7 @@
 
 ### About
 
-B.Tech in AI & Data Science at PSG iTech, Coimbatore.    
+B.Tech in AI & Data Science, PSG iTech, Coimbatore.    
 I build Agents, RAG pipelines, LLM integrations, and full-stack web apps.    
 Interned at **SAP Labs** and **AssuredAI**.    
 National hackathon finalist. Top 10% on LeetCode.
